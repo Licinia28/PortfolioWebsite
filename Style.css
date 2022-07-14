@@ -1,0 +1,43 @@
+
+.picRight
+{
+  position: absolute;
+  right: 0%;
+}
+.section ::after
+{
+  content:"";
+  clear: both;
+  display: table;
+}
+header
+{
+  background-color: black;
+  text-decoration: solid;
+  font-style: italic;
+  font-size: larger;
+  "text-align: right;"
+}
+nav
+{
+  padding-right: 100px;
+  text-align:right;
+  color: blue;
+  word-spacing: 10px;
+}
+body
+{
+  background-color: pink;
+}
+h1
+{
+  text-align: left;
+  color: blueviolet;
+  font-style: italic;
+}
+footer
+{
+  text-align: center;
+  background-color: bisque;
+  font-style: italic;
+}
